@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dialogflowfacebookmessenger",
+  "private_key_id": "41b03d0962e03adaa228242ace0a382fa917d17d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmfj4DsL0pBTtf\nGAdDmlk5/8/h5czIiuTisuzYPfB0PSkblFnvbeVZCy3xDNps/jJzoPKg8RraXRtr\nsTkSn4RH/JcfH1SmGGX1SMd199YMeHZggRB1iMKEON+odeu5tr42fZ117dH8f+8f\nzMGwCF48NoNOI/oy19KjcMx579zsdPUIyMxfi04VApPVkEtu1cuVovfYUE5N6ckT\n6O0R0mzeHChbABVRPMrBrK/Yz1c76zzO96WiawHMbVel7bjCksXDoge4aU1NAAAK\nYdqYq7BBlsBsAXisY17bTFH2LKfq4LRzYJa3Q1S7uFpHset9wiRczllv5aCge53h\ntZeLrWtnAgMBAAECggEAT8N8Z101iqD4jDrhRAh+xdQiHmnvPYaZWGh7IrAt8ipY\n9t8QZS5DqfC6rljHjl8MAaxygRtxj3r6x5HMs3jbsXc4WU8zyS04L5aSBJjbIfdW\nUy6SGZUPB7SNplH0QHFl2Io+tUBeETejcpswkeq4ZuWA65893zzZq7a/J438TAWH\nj4ni8moZhxndImCAgk6X57fqotn9PG1H3GO9x0RdNsK+FZr7T3r8P9kQrfEtJcYx\n0qvQ9c64Hsu1R0DFUdkrU334ToAyyEnVmoyFvgt3Ml4SaPiSHLF4BesRDEA01qO3\na74zv1Yz6PaB0LWBVetv8yiBYgASItCn8xOIGC56OQKBgQDkHoKCnmzcFeBaEs2k\n9tAQZ2W8/XE1i1uSNGAD+eMV0zy1v0M2n8SVtSGXQvMDFXFdsEZX/Eoyw6QCDmLP\n9OfeorR3xJ7woMJUhzSlMphap237gBUxO2JqmZODdL6TRAJBotPGX+/ooqp6Xsww\nQbOnJLyqVLBFOG4KigbH4OVFWQKBgQC614zp+gWdPswXCHKEuRYrxzNZWdt88m3C\n0Zh1OUxGIIIwZRel0qGuqgOBxhojyLdLl14YepZAp0esJmZjope4ZDAgC6jsEJGm\n7VBfUL6GDDNF1AupSRh+4js0w67zBh83J9xolU8uL9cB40TTUhjvUpa4cz4IAlf8\niH+D7WhevwKBgCe0g8TWbF42VJF4+mA/MWHZjWTCvES0l+CvyxKGGReAZ+2+d6V3\nU5E3MLySQ5gC0HOdLfE8kXGaid5twJcvqnge28iI6Z06bfime+xRDSGiSMtgtM+X\n5X5mcr2LwWwCh14DSFcb9bcJMSERhPrVRL7P7yK6kN/LfaPJ+Hor09wpAoGALSis\nBmFHuhnTej2wcCPMGAitgIsXYbu2i7/c+Xg/1zNERC4q6QlfyreM4XDgIIYCx2Ju\ne7wlVLsZt6IQXUSPJyIP/67RxTy793ykUGVTp1KLkfUOXHwuT3yeksI5JsP0B4C6\n5QwxdxhY/zvPBsRxAmcTxsET3Ruz6HWVXG2lLEECgYABsSKfPT4VbdgNv8lRiYE2\n/q1bEYVUXm0zlx+Kyi13SWm22axgMwMnqOibumR9lf+jOxTq/J1/LPWCllZ+Ldbp\ntA3/9I5amREaMm61ERAsGKCTuWRNxnJmpc5Skkp9otfpPqFqQKwpjXcf2L3BmEM+\n+JMzbjb/ARa7Q7uXk7wNrg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "etdachatbot@dialogflowfacebookmessenger.iam.gserviceaccount.com",
+  "client_id": "104598029557503837899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etdachatbot%40dialogflowfacebookmessenger.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
